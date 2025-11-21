@@ -50,6 +50,7 @@ dependencies:
   flutter_hooks: ^0.21.3+1
   # Cached Network Image
   cached_network_image: ^3.2.0
+  dio: ^5.9.0
 
 dev_dependencies:
   flutter_test:
